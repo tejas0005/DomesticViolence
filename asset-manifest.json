@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DomesticViolence/static/css/main.c1a24007.css",
-    "main.js": "/DomesticViolence/static/js/main.df9586d0.js",
-    "static/js/453.8ab44547.chunk.js": "/DomesticViolence/static/js/453.8ab44547.chunk.js",
-    "static/media/image.jpg": "/DomesticViolence/static/media/image.1a885690063dbffa9ed3.jpg",
-    "index.html": "/DomesticViolence/index.html",
-    "main.c1a24007.css.map": "/DomesticViolence/static/css/main.c1a24007.css.map",
-    "main.df9586d0.js.map": "/DomesticViolence/static/js/main.df9586d0.js.map",
-    "453.8ab44547.chunk.js.map": "/DomesticViolence/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/static/css/main.92754a9c.css",
+    "main.js": "/static/js/main.bc32ed71.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/image.jpg": "/static/media/image.1a885690063dbffa9ed3.jpg",
+    "index.html": "/index.html",
+    "main.92754a9c.css.map": "/static/css/main.92754a9c.css.map",
+    "main.bc32ed71.js.map": "/static/js/main.bc32ed71.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1a24007.css",
-    "static/js/main.df9586d0.js"
+    "static/css/main.92754a9c.css",
+    "static/js/main.bc32ed71.js"
   ]
 }
